@@ -1,0 +1,7 @@
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\obj\Debug\KolenoFollowGameTwitch.csprojResolveAssemblyReference.cache
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\bin\Debug\KolenoFollowGameTwitch.exe.config
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\bin\Debug\KolenoFollowGameTwitch.exe
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\bin\Debug\KolenoFollowGameTwitch.pdb
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\bin\Debug\Newtonsoft.Json.dll
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\obj\Debug\KolenoFollowGameTwitch.exe
+c:\users\илья-2\documents\visual studio 2017\Projects\KolenoFollowGameTwitch\KolenoFollowGameTwitch\obj\Debug\KolenoFollowGameTwitch.pdb
